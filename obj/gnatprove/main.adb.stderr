@@ -1,0 +1,2 @@
+main.adb:4:11: warning: SPARK_Mode not applied to this compilation unit
+main.adb:4:11: warning: only enclosed declarations with SPARK_Mode will be analyzed
